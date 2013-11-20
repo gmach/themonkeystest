@@ -62,8 +62,16 @@ textarea {
 
 
 
+body { 
+    background-color: white;
+}
 
-
+#results {
+    margin-top: 10px;
+    margin-left: 20px;
+    color: blue;
+    font-size: 0.9em;
+}
 
 
 
